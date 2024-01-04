@@ -1,5 +1,5 @@
 
-# <span style="color:rgb(213,80,0)">Solar Panel Output Estimator</span>[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=slevin48/liveapp&file=SolarPanelEstimator.mlx)
+# <span style="color:rgb(213,80,0)">Solar Panel Output Estimator</span> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/liveapp&file=SolarPanelEstimator.mlx)
 
 ![liveapp](media/SolarPanelOutputEstimator.png)
 
@@ -8,9 +8,7 @@
 * [How to Turn Your Script into a Simple App](https://github.com/mathworks/how-to-turn-your-script-into-a-simple-app)
 
 ## Results: 
-\begin{matlaboutput}
-Expected electrical output = 1321.3423 kW
-\end{matlaboutput}
+
 <center><img src="media/figure_0.png" width="578" alt="figure_0.png"></center>
 
 

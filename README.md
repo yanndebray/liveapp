@@ -1,7 +1,5 @@
 
-# <span style="color:rgb(213,80,0)">Solar Panel Output Estimator</span> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/liveapp&file=SolarPanelEstimator.mlx)
-
-![liveapp](media/SolarPanelOutputEstimator.png)
+# <span style="color:rgb(213,80,0)">Solar Panel Output Estimator</span> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/liveapp&file=SolarPanelEstimator.mlx&focus=true)
 
 ## Resources:
 * [Create an Interactive Form Using the Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/live-editor-to-create-interactive-form.html)

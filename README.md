@@ -2,6 +2,7 @@
 # <span style="color:rgb(213,80,0)">Solar Panel Output Estimator</span> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/liveapp&file=SolarPanelEstimator.mlx&focus=true)
 
 ## Resources:
+* [https://www.youtube.com/watch?v=jmgnToYS72o&ab_channel=MATLAB](https://www.youtube.com/watch?v=jmgnToYS72o&ab_channel=MATLAB)
 * [Focused View for MATLAB Apps and Live Scripts](https://www.mathworks.com/products/matlab-online/focused-view.html)
 * [Create an Interactive Form Using the Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/live-editor-to-create-interactive-form.html)
 * [How to Turn Your Script into a Simple App](https://github.com/mathworks/how-to-turn-your-script-into-a-simple-app)
